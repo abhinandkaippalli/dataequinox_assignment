@@ -1,0 +1,15 @@
+.App {
+    position: relative;
+    left: 500px;
+    color: aliceblue;
+    top: 20px;
+}
+
+.box {
+    border: solid 2px #097992;
+    width: 500px;
+    height: 50px;
+    background-color: #191919;
+    border-radius: 3px;
+    display: block;
+}
